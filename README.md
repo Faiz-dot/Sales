@@ -69,6 +69,7 @@ Collect More Data: If possible, acquiring more data could also help improve the 
 #### Outline of project
 
 - [Link to notebook 1]()
+- https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data
 - [Link to notebook 2]()
 - [Link to notebook 3]()
 
