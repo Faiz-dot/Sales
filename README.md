@@ -20,7 +20,7 @@ This project explores a sales dataset (train.csv), creates features (date, aggre
 - 📦 requirements.txt — recommended package versions
 - 🧠 models/ — (optional) saved model artifacts and preprocessing pipelines
 - 📊 reports/ — (optional) figures, summary tables, evaluation outputs
-- 📘 README.md — this file
+- 📘 README.md — https://github.com/Faiz-dot/Sales/blob/main/Sales.ipynb
 
 
 
