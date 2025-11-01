@@ -6,3 +6,9 @@ This project explores a sales dataset (train.csv), creates features (date, aggre
 
 
 
+🔑 Key features
+- 🕒 Time-aware cross-validation that preserves chronological order
+- 🔧 Extensive feature engineering: date features, aggregated customer/product features, lag/rolling metrics
+- 🤖 Model families compared: Random Forest, LightGBM, XGBoost, CatBoost, Ridge Regression, Neural Networks
+- 🔁 Reproducible pipelines: scikit-learn ColumnTransformer / Pipeline patterns
+- 🔍 Explainability: guidance for SHAP and experiment tracking (MLflow / Weights & Biases)
